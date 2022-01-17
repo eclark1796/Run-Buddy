@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Run Buddy</title>
+</head>
+    <body>
+    <div>
+        <h1>RUN BUDDY</h1>
+    </div>
+     What We Do What You Do Your Trainers Reach Out
+        <footer>
+            <h2>❤️ Made with love by Run Buddy.</h2>
+        </footer>    
+    </body>
+</html>
